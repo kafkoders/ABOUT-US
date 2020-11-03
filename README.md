@@ -12,7 +12,7 @@ Kafkoders first Hackathon was the Google Hashcode 2019 where they sent the first
   <tr>
     <td align="center"><a href="https://github.com/alvarobartt"><img src="https://avatars3.githubusercontent.com/u/36760800?s=460&v=4" width="100px;" alt=""/><br/><sub><b>Álvaro Bartolomé</b></sub></a><br/><a title="Code">💻</a> <a title="Documentation">📖</a> <a title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/calabres97"><img src="https://avatars2.githubusercontent.com/u/10390523?s=460&v=4" width="100px;" alt=""/><br/><sub><b>Enrique Hernández</b></sub></a><br/><a title="Code">💻</a> <a title="Design">🎨</a> <a title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/Juanju97"><img src="https://avatars0.githubusercontent.com/u/36761132?s=460&v=4" width="100px;" alt=""/><br/><sub><b>Juan Julián Cea</b></sub></a><br/><a title="Code">💻</a> <a title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/juanjucm"><img src="https://avatars0.githubusercontent.com/u/36761132?s=460&v=4" width="100px;" alt=""/><br/><sub><b>Juan Julián Cea</b></sub></a><br/><a title="Code">💻</a> <a title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/GandalFran"><img src="https://avatars2.githubusercontent.com/u/29973536?s=460&v=4" width="100px;" alt=""/><br/><sub><b>Francisco Pinto</b></sub></a><br/><a title="Code">💻</a> <a title="Content">🖋</a> <a title="Documentation">📖</a> <a title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
   <tr>
